@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Hawai'i" />
+    <node id="Vanderbilt" />
+    <node id="Tennessee" />
+    <node id="Ball State" />
+    <node id="Missouri" />
+    <node id="Louisiana Tech" />
+    <node id="Texas A&amp;M" />
+    <node id="Sam Houston State" />
+    <node id="Arkansas" />
+    <node id="Cincinnati" />
+    <node id="Georgia" />
+    <node id="Oregon" />
+    <node id="Ole Miss" />
+    <node id="Troy" />
+    <node id="Auburn" />
+    <node id="Mercer" />
+    <node id="Florida" />
+    <node id="Utah" />
+    <node id="Elon" />
+    <node id="Kentucky" />
+    <node id="Miami (OH)" />
+    <node id="South Carolina" />
+    <node id="Georgia State" />
+    <node id="Alabama" />
+    <node id="Utah State" />
+    <node id="Mississippi State" />
+    <node id="Memphis" />
+    <node id="Florida State" />
+    <node id="LSU" />
+    <node id="Texas" />
+    <node id="Wake Forest" />
+    <node id="Kansas State" />
+    <node id="Pittsburgh" />
+    <node id="Appalachian State" />
+    <node id="Samford" />
+    <node id="Central Arkansas" />
+    <node id="Southern" />
+    <node id="San José State" />
+    <node id="Arizona" />
+    <node id="Youngstown State" />
+    <node id="Abilene Christian" />
+    <node id="Georgia Tech" />
+    <node id="Northern Illinois" />
+    <node id="Penn State" />
+    <node id="Louisiana Monroe" />
+    <node id="Missouri State" />
+    <node id="Akron" />
+    <node id="South Florida" />
+    <node id="Miami" />
+    <node id="Kent State" />
+    <node id="Bowling Green" />
+    <node id="Tulsa" />
+    <node id="Charlotte" />
+    <node id="New Mexico" />
+    <node id="South Carolina State" />
+    <node id="Eastern Washington" />
+    <node id="BYU" />
+    <node id="UT Martin" />
+    <node id="Liberty" />
+    <node id="East Tennessee State" />
+    <node id="Austin Peay" />
+    <node id="UMass" />
+    <node id="Western Kentucky" />
+    <node id="New Mexico State" />
+    <node id="UAB" />
+    <node id="Clemson" />
+    <node id="Louisville" />
+    <edge source="Hawai'i" target="Vanderbilt" />
+    <edge source="Vanderbilt" target="Elon" />
+    <edge source="Vanderbilt" target="Wake Forest" />
+    <edge source="Vanderbilt" target="Northern Illinois" />
+    <edge source="Vanderbilt" target="Alabama" />
+    <edge source="Vanderbilt" target="Ole Miss" />
+    <edge source="Vanderbilt" target="Georgia" />
+    <edge source="Vanderbilt" target="Missouri" />
+    <edge source="Vanderbilt" target="South Carolina" />
+    <edge source="Vanderbilt" target="Kentucky" />
+    <edge source="Vanderbilt" target="Florida" />
+    <edge source="Vanderbilt" target="Tennessee" />
+    <edge source="Tennessee" target="Ball State" />
+    <edge source="Tennessee" target="Pittsburgh" />
+    <edge source="Tennessee" target="Akron" />
+    <edge source="Tennessee" target="Florida" />
+    <edge source="Tennessee" target="LSU" />
+    <edge source="Tennessee" target="Alabama" />
+    <edge source="Tennessee" target="UT Martin" />
+    <edge source="Tennessee" target="Kentucky" />
+    <edge source="Tennessee" target="Georgia" />
+    <edge source="Tennessee" target="Missouri" />
+    <edge source="Tennessee" target="South Carolina" />
+    <edge source="Missouri" target="Louisiana Tech" />
+    <edge source="Missouri" target="Kansas State" />
+    <edge source="Missouri" target="Abilene Christian" />
+    <edge source="Missouri" target="Auburn" />
+    <edge source="Missouri" target="Georgia" />
+    <edge source="Missouri" target="Florida" />
+    <edge source="Missouri" target="South Carolina" />
+    <edge source="Missouri" target="Kentucky" />
+    <edge source="Missouri" target="New Mexico State" />
+    <edge source="Missouri" target="Arkansas" />
+    <edge source="Texas A&amp;M" target="Sam Houston State" />
+    <edge source="Texas A&amp;M" target="Appalachian State" />
+    <edge source="Texas A&amp;M" target="Miami" />
+    <edge source="Texas A&amp;M" target="Arkansas" />
+    <edge source="Texas A&amp;M" target="Mississippi State" />
+    <edge source="Texas A&amp;M" target="Alabama" />
+    <edge source="Texas A&amp;M" target="South Carolina" />
+    <edge source="Texas A&amp;M" target="Ole Miss" />
+    <edge source="Texas A&amp;M" target="Florida" />
+    <edge source="Texas A&amp;M" target="Auburn" />
+    <edge source="Texas A&amp;M" target="UMass" />
+    <edge source="Texas A&amp;M" target="LSU" />
+    <edge source="Arkansas" target="Cincinnati" />
+    <edge source="Arkansas" target="South Carolina" />
+    <edge source="Arkansas" target="Missouri State" />
+    <edge source="Arkansas" target="Alabama" />
+    <edge source="Arkansas" target="Mississippi State" />
+    <edge source="Arkansas" target="BYU" />
+    <edge source="Arkansas" target="Auburn" />
+    <edge source="Arkansas" target="Liberty" />
+    <edge source="Arkansas" target="LSU" />
+    <edge source="Arkansas" target="Ole Miss" />
+    <edge source="Georgia" target="Oregon" />
+    <edge source="Georgia" target="Samford" />
+    <edge source="Georgia" target="South Carolina" />
+    <edge source="Georgia" target="Kent State" />
+    <edge source="Georgia" target="Auburn" />
+    <edge source="Georgia" target="Florida" />
+    <edge source="Georgia" target="Mississippi State" />
+    <edge source="Georgia" target="Kentucky" />
+    <edge source="Georgia" target="Georgia Tech" />
+    <edge source="Georgia" target="LSU" />
+    <edge source="Ole Miss" target="Troy" />
+    <edge source="Ole Miss" target="Central Arkansas" />
+    <edge source="Ole Miss" target="Georgia Tech" />
+    <edge source="Ole Miss" target="Tulsa" />
+    <edge source="Ole Miss" target="Kentucky" />
+    <edge source="Ole Miss" target="Auburn" />
+    <edge source="Ole Miss" target="LSU" />
+    <edge source="Ole Miss" target="Alabama" />
+    <edge source="Ole Miss" target="Mississippi State" />
+    <edge source="Auburn" target="Mercer" />
+    <edge source="Auburn" target="San José State" />
+    <edge source="Auburn" target="Penn State" />
+    <edge source="Auburn" target="LSU" />
+    <edge source="Auburn" target="Mississippi State" />
+    <edge source="Auburn" target="Western Kentucky" />
+    <edge source="Auburn" target="Alabama" />
+    <edge source="Florida" target="Utah" />
+    <edge source="Florida" target="Kentucky" />
+    <edge source="Florida" target="South Florida" />
+    <edge source="Florida" target="Eastern Washington" />
+    <edge source="Florida" target="LSU" />
+    <edge source="Florida" target="South Carolina" />
+    <edge source="Florida" target="Florida State" />
+    <edge source="Kentucky" target="Miami (OH)" />
+    <edge source="Kentucky" target="Youngstown State" />
+    <edge source="Kentucky" target="Northern Illinois" />
+    <edge source="Kentucky" target="South Carolina" />
+    <edge source="Kentucky" target="Mississippi State" />
+    <edge source="Kentucky" target="Louisville" />
+    <edge source="South Carolina" target="Georgia State" />
+    <edge source="South Carolina" target="Charlotte" />
+    <edge source="South Carolina" target="South Carolina State" />
+    <edge source="South Carolina" target="Clemson" />
+    <edge source="Alabama" target="Utah State" />
+    <edge source="Alabama" target="Texas" />
+    <edge source="Alabama" target="Louisiana Monroe" />
+    <edge source="Alabama" target="Mississippi State" />
+    <edge source="Alabama" target="LSU" />
+    <edge source="Alabama" target="Austin Peay" />
+    <edge source="Mississippi State" target="Memphis" />
+    <edge source="Mississippi State" target="Arizona" />
+    <edge source="Mississippi State" target="LSU" />
+    <edge source="Mississippi State" target="Bowling Green" />
+    <edge source="Mississippi State" target="East Tennessee State" />
+    <edge source="Florida State" target="LSU" />
+    <edge source="LSU" target="Southern" />
+    <edge source="LSU" target="New Mexico" />
+    <edge source="LSU" target="UAB" />
+  </graph>
+</graphml>
